@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "random_webpage"
 type = "javascript"
-account_id = ""
+account_id = "9f36c223af18f777e0dd4e162a564706"
 workers_dev = true
 route = ""
 zone_id = ""
